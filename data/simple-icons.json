@@ -255,6 +255,11 @@
 		"source": "https://www.adafruit.com"
 	},
 	{
+		"title": "AdAway",
+		"hex": "B71C1C",
+		"source": "https://github.com/AdAway/adaway.github.io/blob/afbe891b58ab5d0207a98a4a2fac410a55710914/assets/img/logo.svg"
+	},
+	{
 		"title": "AdBlock",
 		"hex": "F40D12",
 		"source": "https://getadblock.com"
@@ -2051,6 +2056,11 @@
 		"source": "https://www.bitwig.com"
 	},
 	{
+		"title": "Black",
+		"hex": "000000",
+		"source": "https://black.readthedocs.io"
+	},
+	{
 		"title": "Blackberry",
 		"hex": "000000",
 		"source": "https://www.blackberry.com"
@@ -2187,6 +2197,12 @@
 		"source": "https://insights.bookbub.com/bookbub-follow-bookmark-buttons-for-authors-websites"
 	},
 	{
+		"title": "Booking.com",
+		"hex": "003A9A",
+		"source": "https://www.bookingholdings.com/media-room",
+		"guidelines": "https://www.bookingholdings.com/media-room"
+	},
+	{
 		"title": "Bookmeter",
 		"hex": "64BC4B",
 		"source": "https://bookmeter.com"
@@ -2272,6 +2288,11 @@
 		"title": "Braintree",
 		"hex": "000000",
 		"source": "https://www.braintreepayments.com/press"
+	},
+	{
+		"title": "Braintrust",
+		"hex": "000000",
+		"source": "https://github.com/simple-icons/simple-icons/issues/13497#issuecomment-2992162934"
 	},
 	{
 		"title": "Brandfetch",
@@ -2604,6 +2625,11 @@
 		"title": "Cardano",
 		"hex": "0133AD",
 		"source": "https://cardano.org/brand-assets/"
+	},
+	{
+		"title": "Cardmarket",
+		"hex": "012169",
+		"source": "https://github.com/simple-icons/simple-icons/issues/13380#issuecomment-2993697122"
 	},
 	{
 		"title": "Carlsberg Group",
@@ -4363,6 +4389,11 @@
 		}
 	},
 	{
+		"title": "Dolphin",
+		"hex": "00AAFF",
+		"source": "https://github.com/dolphin-emu/dolphin/blob/6851ed73f41f43b9a2da23e7f4cb58f58a904fe2/Data/dolphin-emu.svg"
+	},
+	{
 		"title": "DoorDash",
 		"hex": "FF3008",
 		"source": "https://www.doordash.com/about/"
@@ -4842,6 +4873,11 @@
 		"hex": "0080BC",
 		"source": "https://ens.domains/brand",
 		"guidelines": "https://ens.domains/brand"
+	},
+	{
+		"title": "Ente",
+		"hex": "00BC45",
+		"source": "https://ente.io"
 	},
 	{
 		"title": "EnterpriseDB",
@@ -5433,12 +5469,8 @@
 	},
 	{
 		"title": "Flask",
-		"hex": "000000",
-		"source": "https://github.com/pallets/flask/blob/e6e75e55470a0682ee8370e6d68062e515a248b9/artwork/logo-full.svg",
-		"license": {
-			"type": "custom",
-			"url": "https://github.com/pallets/flask/blob/master/artwork/LICENSE.rst"
-		}
+		"hex": "3BABC3",
+		"source": "https://github.com/pallets/flask/blob/85c5d93cbd049c4bd0679c36fd1ddcae8c37b642/docs/_static/flask-icon.svg"
 	},
 	{
 		"title": "Flat",
@@ -6648,6 +6680,11 @@
 		}
 	},
 	{
+		"title": "GPLv3",
+		"hex": "BD0000",
+		"source": "https://www.gnu.org/graphics/license-logos.html"
+	},
+	{
 		"title": "Grab",
 		"hex": "00B14F",
 		"source": "https://en.wikipedia.org/wiki/File:Grab_(application)_logo.svg"
@@ -7031,6 +7068,11 @@
 		"hex": "EA8220",
 		"source": "https://haxe.org/foundation/branding.html",
 		"guidelines": "https://haxe.org/foundation/branding.html"
+	},
+	{
+		"title": "Haystack",
+		"hex": "0EAF9C",
+		"source": "https://github.com/simple-icons/simple-icons/issues/12288#issuecomment-2567870921"
 	},
 	{
 		"title": "HBO",
@@ -8163,8 +8205,8 @@
 	},
 	{
 		"title": "Jinja",
-		"hex": "B41717",
-		"source": "https://github.com/pallets/jinja/blob/1c240154865a7b6034033027e3c2ca8a2fa53fc2/artwork/jinjalogo.svg"
+		"hex": "7E0C1B",
+		"source": "https://jinja.palletsprojects.com"
 	},
 	{
 		"title": "Jio",
@@ -8506,6 +8548,11 @@
 		"title": "KeeWeb",
 		"hex": "528BFF",
 		"source": "https://github.com/keeweb/keeweb/blob/44432eb66d5b771d5867cdd74f2500d00e006783/graphics/svg/keeweb.svg"
+	},
+	{
+		"title": "Kenmei",
+		"hex": "545C64",
+		"source": "https://www.kenmei.co"
 	},
 	{
 		"title": "Kentico",
@@ -8959,12 +9006,9 @@
 	},
 	{
 		"title": "Launchpad",
-		"hex": "F8C300",
-		"source": "https://help.launchpad.net/logo/submissions",
-		"guidelines": "https://help.launchpad.net/Legal",
-		"license": {
-			"type": "CC-BY-ND-2.0"
-		}
+		"hex": "E95420",
+		"source": "https://launchpad.net",
+		"guidelines": "https://design.ubuntu.com/brand"
 	},
 	{
 		"title": "Lazarus",
@@ -9500,6 +9544,11 @@
 		"hex": "2C2D72",
 		"source": "https://www.lua.org/images/",
 		"guidelines": "https://www.lua.org/images/"
+	},
+	{
+		"title": "Luau",
+		"hex": "00A2FF",
+		"source": "https://github.com/luau-lang/site/blob/96af82d9c8a22f337908676facf999310f4d87ba/logo.svg"
 	},
 	{
 		"title": "Lubuntu",
@@ -10234,6 +10283,11 @@
 		}
 	},
 	{
+		"title": "Mistral AI",
+		"hex": "FA520F",
+		"source": "https://chat.mistral.ai"
+	},
+	{
 		"title": "Mitsubishi",
 		"hex": "E60012",
 		"source": "https://www.mitsubishi.com"
@@ -10583,6 +10637,11 @@
 		"title": "MYOB",
 		"hex": "7B14EF",
 		"source": "https://www.myob.com"
+	},
+	{
+		"title": "MyShows",
+		"hex": "CC0000",
+		"source": "https://myshows.me"
 	},
 	{
 		"title": "Myspace",
@@ -12014,6 +12073,11 @@
 		"guidelines": "https://www.patreon.com/brand"
 	},
 	{
+		"title": "PAYBACK",
+		"hex": "003EB0",
+		"source": "https://www.payback.de/filialen-prospekte"
+	},
+	{
 		"title": "Paychex",
 		"hex": "004B8D",
 		"source": "https://www.paychex.com"
@@ -12594,7 +12658,7 @@
 	},
 	{
 		"title": "Polars",
-		"hex": "CD792C",
+		"hex": "0075FF",
 		"source": "https://pola.rs"
 	},
 	{
@@ -14011,6 +14075,11 @@
 		"title": "Roll20",
 		"hex": "E10085",
 		"source": "https://roll20.net"
+	},
+	{
+		"title": "Rollbar",
+		"hex": "3569F3",
+		"source": "https://rollbar.com/about"
 	},
 	{
 		"title": "Rolls-Royce",
@@ -17372,6 +17441,11 @@
 		"source": "https://www.valvesoftware.com"
 	},
 	{
+		"title": "Vanilla Extract",
+		"hex": "F786AD",
+		"source": "https://github.com/vanilla-extract-css/vanilla-extract/blob/7d1c4d8f34f07cea7980f7197978f2127d890be7/site/logo.svg"
+	},
+	{
 		"title": "Vapor",
 		"hex": "0D0D0D",
 		"source": "https://vapor.codes"
@@ -17545,6 +17619,11 @@
 		"hex": "0066B2",
 		"source": "https://www.victronenergy.com/information/press",
 		"guidelines": "https://www.victronenergy.com/information/press"
+	},
+	{
+		"title": "Vikunja",
+		"hex": "196AFF",
+		"source": "https://github.com/go-vikunja/website/blob/45328fa981e7b038cd957a995528706617069420/public/favicon.svg"
 	},
 	{
 		"title": "Vim",
@@ -18470,6 +18549,11 @@
 		"title": "Y Combinator",
 		"hex": "F0652F",
 		"source": "https://www.ycombinator.com/press"
+	},
+	{
+		"title": "Yaak",
+		"hex": "814EDF",
+		"source": "https://yaak.app"
 	},
 	{
 		"title": "yabai",
